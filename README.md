@@ -6,8 +6,8 @@
 
 <img src="pixel"> : Kiru / Tonomi / She
 
-<p align="right"<img src="pixel"> : Wanting to be a dev
+<p align="right">Wanting to be a dev : <img src="pixel">
 
 <img src="pixel"> : anonymous acc i have many identities lol
 
-<p align="right"<img src="pixel"> : lyart fan <3
+<p align="right">lyart fan <3 : <img src="pixel">
