@@ -28,6 +28,7 @@
 <p align="right">lyart fan <3 : <img src="pixel">
 <br>
 <img src="artsprite" width="450" align="right">
+
 <br>
   <br>
    <br>
@@ -49,5 +50,21 @@
       <p align="left">horimiya
         
 <p align="left"><img src="png">
-	<br>
-	<img src="art" width="200"><img src="lyle" width="200">
+<br>
+  <br>
+   <br>
+    <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+ <img src="lyle" width="400"align="left"><img src="art" width="400">
+	<img src="yaoi">  
+ <br>
+	<p div align="center">
+<img src="cast"> 
